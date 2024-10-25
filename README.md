@@ -1,7 +1,5 @@
 # awesome-music-dsp
 
-## Other peoples 
-
 ## Signal Processing Textbooks
 
 DSP theries and basic building blocks.
@@ -12,7 +10,9 @@ DSP theries and basic building blocks.
 
 - [Julius Orion Smith III](https://ccrma.stanford.edu/~jos/)
 
-- Discrete-Time Signal Processing,3 3rd by Oppenheimer
+- Discrete-Time Signal Processing, 3rd by Oppenheimer
+
+- Hack Audio
 
 ## Synthesis
 
@@ -22,7 +22,9 @@ Practical resources for building digital synthesizers.
 
 - Developing Virtual Synthesizers with VCV Rack by Leonardo Gabrielli
 
-- [Faust factory library](https://faustlibraries.grame.fr/) and [quick reference](https://github.com/grame-cncm/faust/blob/master-dev/documentation/faust-quick-reference.pdf)
+- Faust [factory library](https://faustlibraries.grame.fr/) and [quick reference](https://github.com/grame-cncm/faust/blob/master-dev/documentation/faust-quick-reference.pdf)
+
+- [The Canonical Csound Reference Manual](https://www.csounds.com/manual/html/)
 
 - The Computer Music Tutorial, 2nd by Curtis Roads
 
@@ -30,9 +32,23 @@ Practical resources for building digital synthesizers.
 
 - [Computational Music Synthesis by Sean Luke](https://cs.gmu.edu/~sean/book/synthesis/)
 
-## Codes
+- [musicdsp.org](https://www.musicdsp.org/en/latest/index.html)
+
+- [Books by Will Pirkle](https://www.willpirkle.com/)
+
+## Code
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
+
+- [madronalib](https://github.com/madronalabs/madronalib)
+
+- [Audio Toolkit](https://github.com/AudioTK/AudioTK)
+
+## Emerging techonolgies
+
+### Web Audio API
+
+- Working with the Web Audio API
 
 ## Academic papers and talks
 
@@ -41,19 +57,23 @@ Practical resources for building digital synthesizers.
 
 - [Journal of the Audio Engineering Society](https://aes2.org/publications/journal)
 
-- talks on [ADC - Audio Developer Conference](https://www.youtube.com/@audiodevcon/videos)
+- [ADC - Audio Developer Conference](https://www.youtube.com/@audiodevcon/videos)
 
 - [Computer Music Journal](https://direct.mit.edu/comj)
 
 - [Audio Mostly](https://audiomostly.com/)
 
+- [Audio Engineering Books published by Taylor & Francis](https://www.taylorfrancis.com/search?subject=SCAR7005&context=ubx&sortBy=newest-to-oldest&key=)
 
-### Distinguished researchers
+
+### Notable researchers
 
 - Victor Lazzarini
-- Kurt James Werner
-- ChowDSP
-- Vesa Välimäki
+- [Dr. Kurt James Werner](https://ccrma.stanford.edu/~kwerner/)
+- [Jatin Chowdhury (ChowDSP)](https://jatinchowdhury18.medium.com/)
+    - [papers](https://ccrma.stanford.edu/~jatin/papers/)
+    - [chowdsp_wdf](https://github.com/Chowdhury-DSP/chowdsp_wdf)
+- [Prof. Vesa Välimäki](https://research.aalto.fi/en/persons/vesa-v%C3%A4lim%C3%A4ki)
 
 ## Other awesome-music-dsp
 
