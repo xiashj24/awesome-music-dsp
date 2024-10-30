@@ -36,6 +36,10 @@ Practical resources for building digital synthesizers.
 
 - [Books by Will Pirkle](https://www.willpirkle.com/)
 
+## Numerical methods
+
+- Numerical Recipes 3rd Edition: The Art of Scientific Computing
+
 ## Code
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
@@ -46,7 +50,11 @@ Practical resources for building digital synthesizers.
 
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
 
+- [signalflow](https://github.com/ideoforms/signalflow)
+
 ## Emerging techonolgies
+
+
 
 ### Web Audio API
 
