@@ -40,7 +40,7 @@ Practical resources for building digital synthesizers.
 
 - Numerical Recipes 3rd Edition: The Art of Scientific Computing
 
-## Code
+## DSP libraries
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
 
@@ -50,10 +50,15 @@ Practical resources for building digital synthesizers.
 
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
 
-- [signalflow](https://github.com/ideoforms/signalflow)
+
 
 ## Emerging techonolgies
 
+### Python
+
+- Introduction to Digital Music with Python Programming; Learning Music with Code
+- [signalflow](https://github.com/ideoforms/signalflow)
+- Think DSP
 
 
 ### Web Audio API
