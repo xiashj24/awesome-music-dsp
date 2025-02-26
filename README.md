@@ -14,7 +14,7 @@ DSP theories and basic building blocks.
 
 - Hack Audio
 
-## Synthesis
+## Sound Synthesis
 
 Practical resources for building digital synthesizers.
 
@@ -50,6 +50,13 @@ Practical resources for building digital synthesizers.
 
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
 
+## C++ and general computer science
+
+For the foreseeable future C++ is still going to be the dominant language of DSP
+
+- A tour of C++, 2nd
+
+- Introduction to Algorithms
 
 
 ## Emerging techonolgies
