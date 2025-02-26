@@ -2,7 +2,7 @@
 
 ## Signal Processing Textbooks
 
-DSP theries and basic building blocks.
+DSP theories and basic building blocks.
 
 - [Introduction to Signal Processing, 2nd by Sophocles J. Orfanidis](https://eceweb1.rutgers.edu/~orfanidi/intro2sp/2e/)
 
@@ -54,12 +54,19 @@ Practical resources for building digital synthesizers.
 
 ## Emerging techonolgies
 
+### Cmajor
+
+I think Cmajor is a super interesting language for audio dsp prototyping.
+
+### Faust
+
+Faust has long history and more maintainers than Cmajor, but I find it difficult to use in production.
+
 ### Python
 
 - Introduction to Digital Music with Python Programming; Learning Music with Code
 - [signalflow](https://github.com/ideoforms/signalflow)
 - Think DSP
-
 
 ### Web Audio API
 
@@ -95,4 +102,5 @@ Practical resources for building digital synthesizers.
 
 - [BillyDM](https://github.com/BillyDM/awesome-audio-dsp)
 - [Oli Larkin](https://github.com/olilarkin/awesome-musicdsp)
+- [Wolfsound](https://thewolfsound.com/resources/)
 - [Music DSP Frequently Asked Questions](http://sites.music.columbia.edu/cmc/music-dsp/musicdspFAQ.html)
