@@ -52,11 +52,22 @@ Practical resources for building digital synthesizers.
 
 ## C++ and general computer science
 
-For the foreseeable future C++ is still going to be the dominant language of DSP
+For the foreseeable future C++ is still going to be the dominant language for DSP
 
 - A tour of C++, 2nd
 
 - Introduction to Algorithms
+
+- A philosophy of software design by John Ousterhout
+
+- CMake
+    - I find it very important to not be intimidated by CMake because it helps you develop cross-platform C++ software faster. There is no way getting around it.
+
+
+## Embedded systems
+
+- Making Embedded Systems, 2nd Edition by Elecia White
+    - also highly recommend her podcast [Embedded FM](https://embedded.fm/)
 
 
 ## Emerging techonolgies
@@ -67,9 +78,9 @@ I think Cmajor is a super interesting language for audio dsp prototyping.
 
 ### Faust
 
-Faust has long history and more maintainers than Cmajor, but I find it difficult to use in production.
+Faust has a long history and way more maintainers than Cmajor, but I find it difficult to use in production prototyping due to its unique syntax.
 
-### Python
+### Python for audio
 
 - Introduction to Digital Music with Python Programming; Learning Music with Code
 - [signalflow](https://github.com/ideoforms/signalflow)
@@ -105,9 +116,10 @@ Faust has long history and more maintainers than Cmajor, but I find it difficult
 - [Prof. Vesa Välimäki](https://research.aalto.fi/en/persons/vesa-v%C3%A4lim%C3%A4ki)
 - Julian Parker
 
-## Other awesome-music-dsp
+## Other resources
 
 - [BillyDM](https://github.com/BillyDM/awesome-audio-dsp)
 - [Oli Larkin](https://github.com/olilarkin/awesome-musicdsp)
 - [Wolfsound](https://thewolfsound.com/resources/)
 - [Music DSP Frequently Asked Questions](http://sites.music.columbia.edu/cmc/music-dsp/musicdspFAQ.html)
+- [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file)
