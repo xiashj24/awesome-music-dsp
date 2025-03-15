@@ -12,13 +12,13 @@ DSP theories and basic building blocks.
 
 - Discrete-Time Signal Processing, 3rd by Oppenheimer
 
-- Hack Audio
+- Hack Audio by Eric Tarr
+
+- Think DSP
 
 ## Sound Synthesis
 
 Practical resources for building digital synthesizers.
-
-- [The Art of VA Filter Design by Vadim Zavalishin](https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_2.1.2.pdf)
 
 - Developing Virtual Synthesizers with VCV Rack by Leonardo Gabrielli
 
@@ -36,9 +36,16 @@ Practical resources for building digital synthesizers.
 
 - [Books by Will Pirkle](https://www.willpirkle.com/)
 
-## Numerical methods
+## Virtual Analog
+
+- [The Art of VA Filter Design by Vadim Zavalishin](https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_2.1.2.pdf)
+
+- [Point to Point library by Hack Audio](https://github.com/HackAudio/PointToPoint_LT)
 
 - Numerical Recipes 3rd Edition: The Art of Scientific Computing
+    - because virtual analog is all about iterative solvers!
+
+- Kurt James Werner's phd paper Wave Digital Filter
 
 ## DSP libraries
 
@@ -49,6 +56,8 @@ Practical resources for building digital synthesizers.
 - [Audio Toolkit](https://github.com/AudioTK/AudioTK)
 
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
+
+- [Orastron Brickworks](https://git.orastron.com/orastron/brickworks)
 
 ## C++ and general computer science
 
@@ -84,7 +93,14 @@ Faust has a long history and way more maintainers than Cmajor, but I find it dif
 
 - Introduction to Digital Music with Python Programming; Learning Music with Code
 - [signalflow](https://github.com/ideoforms/signalflow)
-- Think DSP
+
+### Rust for audio
+
+Rust is an interesting language for both embedded systems and DSP.
+
+- [fundsp](https://github.com/SamiPerttu/fundsp)
+
+- [nih-plug](https://github.com/robbert-vdh/nih-plug)
 
 ### Web Audio API
 
