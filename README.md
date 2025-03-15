@@ -44,6 +44,7 @@ Practical resources for building digital synthesizers.
 
 - Numerical Recipes 3rd Edition: The Art of Scientific Computing
     - because virtual analog is all about iterative solvers!
+    - [Eigen: C++ linear algebra library](https://eigen.tuxfamily.org/)
 
 ## DSP libraries
 
