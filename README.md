@@ -136,5 +136,6 @@ Rust is an interesting language for both embedded systems and DSP.
 - [BillyDM](https://github.com/BillyDM/awesome-audio-dsp)
 - [Oli Larkin](https://github.com/olilarkin/awesome-musicdsp)
 - [Wolfsound](https://thewolfsound.com/resources/)
+- [Awesome JUCE](https://github.com/sudara/awesome-juce)
 - [Music DSP Frequently Asked Questions](http://sites.music.columbia.edu/cmc/music-dsp/musicdspFAQ.html)
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file)
