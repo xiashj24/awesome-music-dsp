@@ -77,7 +77,6 @@ For the foreseeable future C++ is still going to be the dominant language for DS
 - Making Embedded Systems, 2nd Edition by Elecia White
     - also highly recommend her podcast [Embedded FM](https://embedded.fm/)
 
-
 ## Emerging techonolgies
 
 ### Cmajor
