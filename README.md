@@ -54,6 +54,8 @@ Practical resources for building digital synthesizers.
 
 - [Audio Toolkit](https://github.com/AudioTK/AudioTK)
 
+- [Synthesis Toolkit (stk)](https://github.com/thestk/stk)
+
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
 
 - [Orastron Brickworks](https://git.orastron.com/orastron/brickworks)
