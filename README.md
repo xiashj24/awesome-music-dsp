@@ -135,18 +135,27 @@ Rust is an interesting language for both embedded systems and DSP.
 ### Notable researchers
 
 - Victor Lazzarini
+
 - [Dr. Kurt James Werner](https://ccrma.stanford.edu/~kwerner/)
+
 - [Jatin Chowdhury (ChowDSP)](https://jatinchowdhury18.medium.com/)
     - [papers](https://ccrma.stanford.edu/~jatin/papers/)
     - [chowdsp_wdf](https://github.com/Chowdhury-DSP/chowdsp_wdf)
+
 - [Prof. Vesa Välimäki](https://research.aalto.fi/en/persons/vesa-v%C3%A4lim%C3%A4ki)
+
 - Julian Parker
 
 ## Other resources
 
 - [BillyDM](https://github.com/BillyDM/awesome-audio-dsp)
+
 - [Oli Larkin](https://github.com/olilarkin/awesome-musicdsp)
+
 - [Wolfsound](https://thewolfsound.com/resources/)
+
 - [Awesome JUCE](https://github.com/sudara/awesome-juce)
+
 - [Music DSP Frequently Asked Questions](http://sites.music.columbia.edu/cmc/music-dsp/musicdspFAQ.html)
+
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file)
