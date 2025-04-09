@@ -1,6 +1,6 @@
 # awesome-music-dsp
 
-## Signal Processing Textbooks
+## Signal processing textbooks
 
 DSP theories and basic building blocks.
 
@@ -14,7 +14,7 @@ DSP theories and basic building blocks.
 
 - Hack Audio by Eric Tarr
 
-## Sound Synthesis
+## Sound synthesis
 
 Practical resources for building digital synthesizers.
 
@@ -54,7 +54,7 @@ Practical resources for building digital synthesizers.
 
 - [Audio EQ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
 
-## DSP codebases
+## DSP codebase
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
 
@@ -69,6 +69,8 @@ Practical resources for building digital synthesizers.
 - [Orastron Brickworks](https://git.orastron.com/orastron/brickworks)
 
 - [DaisySP](https://github.com/electro-smith/DaisySP)
+
+- [aulib by Victor Lazzarini](https://github.com/aulib/aulib)
 
 ## C++ and general computer science
 
