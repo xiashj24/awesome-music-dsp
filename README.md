@@ -46,7 +46,7 @@ Practical resources for building digital synthesizers.
     - because virtual analog is all about iterative solvers!
     - [Eigen: C++ linear algebra library](https://eigen.tuxfamily.org/)
 
-## DSP libraries
+## DSP codebases
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
 
@@ -59,6 +59,8 @@ Practical resources for building digital synthesizers.
 - [Signalsmith DSP library](https://signalsmith-audio.co.uk/code/dsp)
 
 - [Orastron Brickworks](https://git.orastron.com/orastron/brickworks)
+
+- [DaisySP](https://github.com/electro-smith/DaisySP)
 
 ## C++ and general computer science
 
