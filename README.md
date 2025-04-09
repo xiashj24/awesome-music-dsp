@@ -14,8 +14,6 @@ DSP theories and basic building blocks.
 
 - Hack Audio by Eric Tarr
 
-- Think DSP
-
 ## Sound Synthesis
 
 Practical resources for building digital synthesizers.
@@ -45,6 +43,16 @@ Practical resources for building digital synthesizers.
 - Numerical Recipes 3rd Edition: The Art of Scientific Computing
     - because virtual analog is all about iterative solvers!
     - [Eigen: C++ linear algebra library](https://eigen.tuxfamily.org/)
+
+## Oversampling and DSP filter design
+
+- [hiir by Laurent de Soras](https://ldesoras.fr/prod.html#src_hiir)
+    - this is the library to checkout when you want high performance oversampling in C++
+
+- python (numpy, scipy and matplotlib)
+    - Think DSP
+
+- [Audio EQ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
 
 ## DSP codebases
 
