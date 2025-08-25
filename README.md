@@ -161,3 +161,5 @@ Rust is an interesting language for both embedded systems and DSP.
 - [Music DSP Frequently Asked Questions](http://sites.music.columbia.edu/cmc/music-dsp/musicdspFAQ.html)
 
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file)
+
+- [Embedded Artistry beginner's resources](https://embeddedartistry.com/beginners/)
