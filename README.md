@@ -54,6 +54,12 @@ Practical resources for building digital synthesizers.
 
 - [Audio EQ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
 
+## Practical Audio Effects
+
+- [Audio Effects: Theory, Implementation and Application](https://www.routledge.com/Audio-Effects-Theory-Implementation-and-Application/Reiss-McPherson/p/book/9781032974859)
+
+- [DAFX: Digital Audio Effects 2nd by Udo Zölzer](https://www.dafx.de/DAFX_Book_Page_2nd_edition/index.html)
+
 ## DSP codebase
 
 - [Mutable Instruments](https://github.com/pichenettes/eurorack)
