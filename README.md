@@ -169,3 +169,7 @@ Rust is an interesting language for both embedded systems and DSP.
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap?tab=readme-ov-file)
 
 - [Embedded Artistry beginner's resources](https://embeddedartistry.com/beginners/)
+
+- [awesome-ux](https://github.com/batoreh/awesome-ux)
+    - if your company hires someone who to get this right then you are lucky
+    - if not, you have to learn this all by yourself, or the product *is* going to fail... 
