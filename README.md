@@ -78,6 +78,8 @@ Practical resources for building digital synthesizers.
 
 - [aulib by Victor Lazzarini](https://github.com/aulib/aulib)
 
+- [LEAF: light weight audio framework](https://github.com/spiricom/LEAF)
+
 ## C++ and general computer science
 
 For the foreseeable future C++ is still going to be the dominant language for DSP
