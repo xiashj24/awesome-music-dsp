@@ -125,6 +125,7 @@ Rust is an interesting language for both embedded systems and DSP.
 ### Web Audio API
 
 - Working with the Web Audio API
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 ## Academic papers and talks
 
